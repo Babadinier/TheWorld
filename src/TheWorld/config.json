@@ -1,0 +1,11 @@
+﻿{
+  "MailSettings": {
+    "ToAddress": ""
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection": "Server=[NAMESRV]\\sqlexpress;Database=TheWorldDb;Trusted_Connection=true;MultipleActiveResultSets=true"
+  },
+  "Keys": {
+    "BingKey":  "DONTEVERPUTKEYSINSOURCECONTROL"
+  }
+}
